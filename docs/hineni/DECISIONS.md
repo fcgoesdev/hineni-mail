@@ -12,6 +12,7 @@
 | ADR-008 | Resend primário; Brevo alternativa a homologar | Aprovada; não configurado |
 | ADR-009 | Documentação pública sanitizada no GitHub; documentação operacional privada | Implementada |
 | ADR-010 | Servidores privados e ferramentas de automação não são dependência do fluxo de e-mail | Aprovada |
+| ADR-011 | Atualizações de segurança em dependências devem ser pontuais, reproduzíveis e acompanhadas por testes de regressão | Aprovada; aplicada na M02 (Hono) |
 
 ## Decisões operacionais da M01
 

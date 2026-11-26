@@ -6,7 +6,8 @@ Legenda: **Implementado** · **Validado** · **Planejado** · **Bloqueado**
 | --- | --- | --- |
 | M00 | Discovery e inventário somente leitura | Implementado |
 | M01 | Baseline Git, fundação, testes locais, documentação, plano de DNS | Implementado; ver `CHANGELOG.md` |
-| M02 | A definir pelo orquestrador | Planejado |
+| M02 | Fundação de segurança (Hono, regressão de autorização) e fundação Cloudflare (zona de laboratório) | Segurança: implementada e validada localmente. Cloudflare: em andamento (delegação DNS pendente) |
+| M03 | A definir pelo orquestrador | Planejado |
 
 ## Itens candidatos (sujeitos a missão e autorização)
 
